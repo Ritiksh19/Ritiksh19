@@ -32,7 +32,14 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritiksh19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Passionate Software Developer with a strong foundation in Python, Django, SQL, and Web Development.
+
+Committed to writing clean, maintainable code and building practical solutions to real-world problems.
+
+Currently expanding expertise in Full Stack Development, PostgreSQL, REST APIs, and Software Engineering best practices.
+
+Always open to learning, collaboration, and new opportunities in technology.
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ritiksh19&limit=5&theme=dark&combine_all_yearly_contributions=true)
