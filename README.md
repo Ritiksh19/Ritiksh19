@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently engaging in Software Development using Python.<br>👯 I’m looking to collaborate on Bug Hunting and Debugging.<br>🌱 I’m currently learning Cyber Security.<br>💬 Ask me about your bugs.
+
+👋 Hi, I'm Ritik Sharma, an MCA student passionate about Software Development and Web Development.
+
+💻 I have hands-on experience in Python, Django, SQL, HTML, CSS, and JavaScript through internships, projects, and continuous learning.
+
+🚀 Currently building real-world applications using Python and Django while improving my skills in Full Stack Development, PostgreSQL, REST APIs, and Git.
+
+🌱 Always eager to learn new technologies, solve challenging problems, and contribute to impactful software projects.
+
+🤝 Open to collaborating on Python, Django, Web Development, and Open Source projects.
+
+📫 Reach me at: [ritiksharma1911@gmail.com](mailto:ritiksharma1911@gmail.com)
+
+⚡ Goal: To start my career as a Software Developer and build scalable, user-focused applications.
+
 
 
 ## 🌐 Socials:
