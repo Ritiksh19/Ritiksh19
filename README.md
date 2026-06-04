@@ -42,7 +42,9 @@ Always open to learning, collaboration, and new opportunities in technology.
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ritiksh19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Driven by a passion for software engineering and problem-solving, with a strong interest in building efficient, user-centric applications.
+
+Committed to continuous learning, technical excellence, and applying industry best practices to deliver high-quality software solutions.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ritiksh19&icon=0&color=0)](https://visitcount.itsvg.in)
